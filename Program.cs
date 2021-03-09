@@ -26,6 +26,10 @@ namespace _3._6_Mod_Pract
 
             Console.WriteLine("14.0 / 7.0 = {0}", result5);
 
+            double result6 = 10.0 / 4.0;
+
+            Console.WriteLine("10 / 4 = {0}", result6);
+
         }
     }
 }
