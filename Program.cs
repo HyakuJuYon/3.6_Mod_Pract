@@ -14,6 +14,10 @@ namespace _3._6_Mod_Pract
 
             Console.WriteLine("10 / 4 = {0}", result2);
 
+            double result3 = 14 % 7;
+
+            Console.WriteLine("14 % 7 = {0}", result3);
+
         }
     }
 }
