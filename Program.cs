@@ -34,6 +34,10 @@ namespace _3._6_Mod_Pract
 
             Console.WriteLine("5 / 2 * 3 = {0}", result7);
 
+            double result8 = 10 % 3;
+
+            Console.WriteLine("10 % 3 = {0}", result8);
+
         }
     }
 }
